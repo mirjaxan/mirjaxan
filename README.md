@@ -4,12 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Salom%2C+Men+Mirjaxan!;Frontend+%26+Backend+Developer;Always+Learning+New+Things..." alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-00f7ff?style=for-the-badge&logo=firefox&logoColor=00f7ff&color=000000" />
+  <img src="https://img.shields.io/badge/Loves-Open%20Source-00f7ff?style=for-the-badge&logo=github&logoColor=00f7ff&color=000000" />
+  <img src="https://img.shields.io/badge/Code%20With-Passion-00f7ff?style=for-the-badge&logo=heart&logoColor=00f7ff&color=000000" />
+</p>
+
 ---
 
 ## 🌌 Haqimda
-💻 Web dasturlash va texnologiyaga qiziqaman.  
-🚀 Frontend + Backend bo‘yicha o‘rganish va loyihalar yaratishda davom etyapman.  
-🎨 Qora + Aqua rangli minimalistik dizaynlarni yoqtiraman.  
+- 💻 Web dasturlash va texnologiyaga qiziqaman  
+- 🚀 Frontend + Backend bo‘yicha o‘rganish va loyihalar yaratishda davom etyapman  
+- 🎨 Qora + Aqua rangli minimalistik dizaynlarni yaxshi ko‘raman  
+- 📚 Hozirda `JavaScript` va `Python` bilan chuqur shug‘ullanmoqdaman  
 
 ---
 
@@ -23,6 +30,7 @@
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00f7ff" />
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=00f7ff" />
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=00f7ff" />
+  <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=00f7ff" />
 </p>
 
 ---
@@ -31,6 +39,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirjaxan&show_icons=true&theme=algolia&title_color=00f7ff&text_color=ffffff&icon_color=00f7ff&bg_color=000000" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mirjaxan&theme=algolia&background=000000&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirjaxan&layout=compact&theme=algolia&title_color=00f7ff&text_color=ffffff&bg_color=000000" width="50%" />
 </p>
 
 ---
@@ -47,6 +59,7 @@
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=00f7ff" /></a>
   <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=00f7ff" /></a>
   <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00f7ff" /></a>
+  <a href="https://github.com/mirjaxan"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00f7ff" /></a>
 </p>
 
 ---
